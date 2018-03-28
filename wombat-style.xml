@@ -48,12 +48,12 @@
   <style name="RemovedLine" foreground="#ff0000"/>
   <style name="DiffFile" foreground="#000080"/>
   <style name="DiffLocation" foreground="#0000ff"/>
-  <style name="DiffFileLine"/>
-  <style name="DiffContextLine"/>
-  <style name="DiffSourceLine"/>
-  <style name="DiffSourceChar"/>
-  <style name="DiffDestLine"/>
-  <style name="DiffDestChar"/>
+  <style name="DiffFileLine" foreground="#d5c50c"/>
+  <style name="DiffContextLine" foreground="#646464"/>
+  <style name="DiffSourceLine" foreground="#591b1b"/>
+  <style name="DiffSourceChar" foreground="#af4646"/>
+  <style name="DiffDestLine" foreground="#31670f"/>
+  <style name="DiffDestChar" foreground="#6ab01f"/>
   <style name="LogChangeLine" foreground="#c00000"/>
   <style name="Warning" underlineColor="#ffbe00" underlineStyle="SingleUnderline"/>
   <style name="WarningContext" underlineColor="#ffbe00" underlineStyle="DotLine"/>
